@@ -5,7 +5,7 @@ import EmbeddedForm from './MyComponent/EmbeddedForm';
 function App() {
   return (
     <>
-    <h1>Hello</h1>
+    <h1>Hello Form</h1>
     <EmbeddedForm />
 
     </>
